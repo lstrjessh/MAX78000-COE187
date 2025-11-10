@@ -1,0 +1,17 @@
+*.map
+*.mem
+*.prof
+/.mypy_cache/
+/.python-version/
+/.vscode
+**/build/
+/ninja-python-distributions
+/pip-selfcheck.json
+/rtldev/
+/tensorflow/
+**/__pycache__/
+/super-linter.log
+/super-linter.report/
+/.version-check
+/venv/
+/sdk/
